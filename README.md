@@ -22,7 +22,7 @@ This project analyzes stock performance data, identifies similar stock behaviors
 - Perform hierarchical clustering on the transposed data to identify which stocks move together and visualize the results using a dendrogram.
 
 ## Files
-- **data_stocks.csv**: The dataset used for analysis.
+- **data_stocks.csv**: The dataset used for analysis. [Download from Google Drive](https://drive.google.com/file/d/19qCpap5IkpdF504nlrlCgni34Ba0pJLx/view?usp=sharing)
 - **stock_analysis.ipynb**: Jupyter Notebook with code and explanations.
 - **README.md**: Project overview and instructions.
 
