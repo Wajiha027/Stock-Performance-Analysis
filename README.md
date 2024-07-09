@@ -1,7 +1,7 @@
 # Stock Performance Analysis
 
 ## Overview
-This project analyzes stock performance data, identifies similar stock behaviors, determines unique patterns, and distinguishes stocks that move together from those that do not. The project involves data preprocessing, dimensionality reduction, clustering, and visualization techniques.
+This project analyzes stock performance data, identifies similar stock behaviors, determines unique patterns, and distinguishes stocks that move together from those that do not. The project involves data preprocessing, dimensionality reduction, clustering, and visualization techniques
 
 ## Steps Involved
 
